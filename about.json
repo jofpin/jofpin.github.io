@@ -1,0 +1,16 @@
+{
+  "name": {
+    "first_name" : "Jose",
+    "last_name" : "Pino",
+    "aka" : "Fraph"
+  },
+  "description": "I love to create small things for the internet",
+  "mail" : "jofpin@gmail.com",
+  "website" : "http://jofpin.github.io",
+  "social_networks": {
+    "twitter" : "jofpin",
+    "github" : "jofpin",
+    "codepen" : "jofpin",
+    "instagram" : "jofpin"
+  }
+}
