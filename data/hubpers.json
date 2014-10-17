@@ -1,5 +1,12 @@
 [
   {  
+    "id": 2,
+    "title" : "Diseñado para rediseñar",
+    "summary" : "Desde el dia en que me puse a pensar, escribir mi vida o dejar que ella me escriba a mi.",
+    "link" : "post/disenado-para-redisenar.html",
+    "date" : "17-10-2014"
+  },
+  {  
     "id": 1,
     "title" : "My first post with hubpi",
     "summary" : "This is a demo of my first publication with my cms hubpi",
