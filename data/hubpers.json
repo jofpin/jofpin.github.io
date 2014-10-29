@@ -1,5 +1,12 @@
 [
   {  
+    "id": 3,
+    "title" : "Clicking ACPR en Twitter",
+    "summary" : "Almacenamiento agresivo del cache mediante las peticiones POST.",
+    "link" : "post/clicking-acpr-en-twitter.html",
+    "date" : "29-10-2014"
+  },
+  {  
     "id": 2,
     "title" : "Diseñado para rediseñar",
     "summary" : "Desde el dia en que me puse a pensar, escribir mi vida o dejar que ella me escriba a mi.",
