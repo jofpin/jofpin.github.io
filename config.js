@@ -1,5 +1,5 @@
 /* config.js > Global config */
-$username = "Jose Pino";  /* title of page or your name */
+$username = "Jose Pino";
 $twitter  = "jofpin"; 
 $github   = "jofpin";
 $codepen  = "jofpin";
